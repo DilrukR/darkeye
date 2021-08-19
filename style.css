@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Container {
+  width: 80%;
+  margin: 0 auto;
+}
+.top-header .container {
+  background-color: burlywood;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.Main_nav {
+  justify-content: space-between;
+  align-items: center;
+}
